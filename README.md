@@ -61,14 +61,5 @@
   
 </ul>
 
-**Getting Started**
 
-To run the project locally, follow these steps:
-
-Clone the repository: **git clone https://github.com/your-username/fix-health-landing.git**
-Navigate to the project directory: **cd fix-health-landing**
-Install dependencies: **npm install**
-Start the development server: **npm start**
-Open your browser and visit **http://localhost:3000** to view the Fix Health landing page.
-
-Click here to view the landing page of FIx Health : <a href="https://rvp6696.github.io/fixhealth-landing-page/" target="_new"> Fix Health </a>
+Click here to view the landing page of Fix Health : <a href="https://rvp6696.github.io/fixhealth-landing-page/" target="_new"> Fix Health </a>
