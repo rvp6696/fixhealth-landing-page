@@ -10,7 +10,38 @@
 <ul>
   <li>
     <h3> Dark Theme </h3>
-    <p>The landing page embraces a modern and sophisticated dark theme, providing a visually appealing and comfortable experience for users.</p>
+    <p>
+      The landing page embraces a modern and sophisticated dark theme, providing a visually appealing and comfortable experience for users.
+    </p>
   </li>
+
+  <li>
+    <h3> Minimalistic Sections </h3>
+    <p>
+       <ul type="a">
+         <li>
+           <h2> Attractive Hero Image </h2>
+          <p>
+            Captivate visitors with a visually striking hero image that reflects the essence of Fix Health and its commitment to well-being.
+          </p>
+         </li> 
+         <li>
+           <h2> Consultation Booking Form </h2>
+          <p>
+            Simplify the process for users to book consultations with a step-by-step form. The form includes the following steps:
+            <ul type="1">
+              <li><b>Name + Phone Number: </b> Collect basic contact information.</li>
+              <li><b>Age + City + Company: </b> Gather additional details for personalized care.</li>
+              <li><b>Chief Complaints: </b> Understand the user's health concerns.</li>
+              <li><b>Previous Experience with Physiotherapy: </b> Determine if the user has any prior experience. (Only for people who age is more than 40 years)</li>
+              <li><b>Best Available Doctors for Their City:  </b> Utilizing a dummy JSON API to showcase available doctors, including their name, expertise, and city.</li>
+            </ul>
+          </p>
+         </li>
+       </ul>
+    </p>
+  </li>
+
+  
   
 </ul>
