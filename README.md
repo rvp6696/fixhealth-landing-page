@@ -20,13 +20,13 @@
     <p>
        <ul type="a">
          <li>
-           <h2> Attractive Hero Image </h2>
+           <h4> Attractive Hero Image </h4>
           <p>
             Captivate visitors with a visually striking hero image that reflects the essence of Fix Health and its commitment to well-being.
           </p>
          </li> 
          <li>
-           <h2> Consultation Booking Form </h2>
+           <h4> Consultation Booking Form </h4>
           <p>
             Simplify the process for users to book consultations with a step-by-step form. The form includes the following steps:
             <ul type="1">
@@ -38,10 +38,37 @@
             </ul>
           </p>
          </li>
+         <li>
+           <h4> Testimonials </h4>
+           <p>
+             Build trust and credibility by featuring testimonials from satisfied patients who have experienced the quality care provided by Fix Health.
+           </p>
+         </li>
        </ul>
     </p>
   </li>
 
-  
+  <li>
+    <h3> Booking Form Enhancements </h3>
+    <p>
+      The booking form is designed to cater to specific user scenarios:\
+      <ul>
+        <li>If the age is less than 40 years, skip the check for previous experience with physiotherapy.</li>
+        <li>Utilize a dummy API to dynamically display the best available doctors based on the user's city.</li>
+      </ul>
+    </p>
+  </li>
   
 </ul>
+
+**Getting Started**
+
+To run the project locally, follow these steps:
+
+Clone the repository: **git clone https://github.com/your-username/fix-health-landing.git**
+Navigate to the project directory: **cd fix-health-landing**
+Install dependencies: **npm install**
+Start the development server: **npm start**
+Open your browser and visit **http://localhost:3000** to view the Fix Health landing page.
+
+Click here to view the landing page of FIx Health : <a href="https://rvp6696.github.io/fixhealth-landing-page/" target="_new"> Fix Health </a>
