@@ -1,4 +1,5 @@
 
+
 const Testimonials = () => {
   return (
     <div className='container-fluid' id="testimonial-area">
@@ -6,12 +7,11 @@ const Testimonials = () => {
         <h2 className='heading-text'> Patient Testimonials </h2>
 
         <h4 className='subhead-text'>
-          Experience unparalleled healing as our cherished patients entrust their <br />
-          well-being to India's unrivaled #1 Physiotherapy Clinic
+        Discover unmatched healing at India's premier Physiotherapy Clinic, where our valued patients entrust their well-being.
         </h4>
       </div>
 
-      <div className='row ps-5 pe-5 mt-4 ms-5'>
+      <div className='row ps-4 pe-4 mt-4'>
 
         <div className='col-lg-3'>
           <div className="card">
@@ -31,8 +31,6 @@ const Testimonials = () => {
           </div>
         </div>
 
-        <div className='col-lg-1'></div>
-
         <div className='col-lg-3'>
           <div className="card">
             <div className="card-header fw-bold text-primary text-center">
@@ -50,8 +48,6 @@ const Testimonials = () => {
           </div>
         </div>
 
-        <div className='col-lg-1'></div>
-
         <div className='col-lg-3'>
           <div className="card">
             <div className="card-header fw-bold text-primary text-center">
@@ -68,6 +64,23 @@ const Testimonials = () => {
             </div>
           </div>
         </div>
+
+        <div className='col-lg-3'>
+          <div className="card">
+            <div className="card-header fw-bold text-primary text-center">
+              100% Recovered in 25 Days
+            </div>
+            <div className="card-body text-center bg-dark">
+              <img src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dXNlcnxlbnwwfHwwfHx8MA%3D%3D" className='user-img mt-2 mb-2' />
+              <h5 className="card-title text-info">Steffan Almond</h5>
+              <h6 className="card-title text-white">Freelancer (Back Pain Patient)</h6>
+              <p className="card-text mt-1 mb-2 text-light">
+                "Effective diagnosis, targeted treatment, honesty of when I require treatment, scaling back my treatment when needed, other physios too quick to consume days given by health insurance."
+              </p>
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
   );
