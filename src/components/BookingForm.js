@@ -309,7 +309,13 @@ const BookingForm = () => {
                             </div>
                           ))}
                         </div>
-                      ) : <p className="text-white fw-bold text-center">No data available !</p>}
+                      ) :
+                        (<div class="d-flex justify-content-center">
+                          <div class="spinner-border text-light" role="status">
+                            <span class="visually-hidden">Loading...</span>
+                          </div>
+                        </div>)
+                      }
 
                       <div className="row text-center mt-4 ">
                         <div className="col-lg-12">
