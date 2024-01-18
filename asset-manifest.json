@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fixhealth-landing-page/static/css/main.c9836060.css",
-    "main.js": "/fixhealth-landing-page/static/js/main.bb34624b.js",
+    "main.js": "/fixhealth-landing-page/static/js/main.22caa9bb.js",
     "static/js/787.acb79df8.chunk.js": "/fixhealth-landing-page/static/js/787.acb79df8.chunk.js",
     "index.html": "/fixhealth-landing-page/index.html",
     "main.c9836060.css.map": "/fixhealth-landing-page/static/css/main.c9836060.css.map",
-    "main.bb34624b.js.map": "/fixhealth-landing-page/static/js/main.bb34624b.js.map",
+    "main.22caa9bb.js.map": "/fixhealth-landing-page/static/js/main.22caa9bb.js.map",
     "787.acb79df8.chunk.js.map": "/fixhealth-landing-page/static/js/787.acb79df8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9836060.css",
-    "static/js/main.bb34624b.js"
+    "static/js/main.22caa9bb.js"
   ]
 }
